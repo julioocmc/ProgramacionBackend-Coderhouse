@@ -1,0 +1,36 @@
+{
+    "entities":{
+        "author":{
+            "juliooocmc18@gmail.com":{
+                "id":"juliooocmc18@gmail.com",
+                "name":"Julio",
+                "lastname":"Mijares",
+                "age":25,
+                "alias":"Julioocmc",
+                "avatar":"url.com"
+                },
+            "nicole@gmail.com":{
+                "id":"nicole@gmail.com",
+                "name":"nicole",
+                "lastname":"prusza",
+                "age":25,
+                "alias":"nicky",
+                "avatar":"url.com"
+                }
+            },
+            "messages":{
+                "1":{
+                    "author":"juliooocmc18@gmail.com",
+                    "text":"Hola, buenas noches!",
+                    "time":"1/24/2023, 8:19:59 PM",
+                    "id":25
+                },
+                "2":{
+                    "author":"nicole@gmail.com",
+                    "text":"hola, como estas",
+                    "time":"1/24/2023, 8:20:22 PM",
+                    "id":26
+                }
+            }
+        },
+    "result":[1,2]}
